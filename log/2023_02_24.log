@@ -1,0 +1,61 @@
+2023-02-24 15:16:53.612204 [info] : ========== Server init ==========
+2023-02-24 15:16:53.612262 [info] : Port:1316, OpenLinger: false
+2023-02-24 15:16:53.612271 [info] : Listen Mode: ET, OpenConn Mode: ET
+2023-02-24 15:16:53.612274 [info] : LogSys level: 1
+2023-02-24 15:16:53.612278 [info] : srcDir: /home/fym/CLionProjects/WebServer-master/resources/
+2023-02-24 15:16:53.612281 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2023-02-24 15:16:53.612286 [info] : ========== Server start ==========
+2023-02-24 15:16:58.604195 [info] : Client[6](127.0.0.1:63682) in, userCount:1
+2023-02-24 15:16:58.604783 [info] : Client[6] in!
+2023-02-24 15:16:59.209776 [info] : Client[7](127.0.0.1:1731) in, userCount:2
+2023-02-24 15:16:59.209836 [info] : Client[7] in!
+2023-02-24 15:16:59.210598 [info] : Client[8](127.0.0.1:4291) in, userCount:3
+2023-02-24 15:16:59.210666 [info] : Client[8] in!
+2023-02-24 15:16:59.210756 [info] : Client[9](127.0.0.1:6339) in, userCount:4
+2023-02-24 15:16:59.210773 [info] : Client[9] in!
+2023-02-24 15:16:59.210885 [info] : Client[10](127.0.0.1:8387) in, userCount:5
+2023-02-24 15:16:59.210906 [info] : Client[10] in!
+2023-02-24 15:16:59.217093 [info] : Client[11](127.0.0.1:8899) in, userCount:6
+2023-02-24 15:16:59.217188 [info] : Client[11] in!
+2023-02-24 15:17:50.586788 [info] : Client[11] quit!
+2023-02-24 15:17:50.586985 [info] : Client[11](127.0.0.1:8899) quit, UserCount:5
+2023-02-24 15:17:50.586992 [info] : Client[7] quit!
+2023-02-24 15:17:50.587014 [info] : Client[7](127.0.0.1:1731) quit, UserCount:4
+2023-02-24 15:17:50.587022 [info] : Client[8] quit!
+2023-02-24 15:17:50.587046 [info] : Client[8](127.0.0.1:4291) quit, UserCount:3
+2023-02-24 15:17:50.587050 [info] : Client[9] quit!
+2023-02-24 15:17:50.587087 [info] : Client[9](127.0.0.1:6339) quit, UserCount:2
+2023-02-24 15:17:50.587096 [info] : Client[10] quit!
+2023-02-24 15:17:50.587209 [info] : Client[10](127.0.0.1:8387) quit, UserCount:1
+2023-02-24 15:17:50.587216 [info] : Client[6] quit!
+2023-02-24 15:17:50.587235 [info] : Client[6](127.0.0.1:63682) quit, UserCount:0
+2023-02-24 15:17:59.231322 [info] : Client[8] quit!
+2023-02-24 15:18:27.056863 [info] : Client[6] quit!
+2023-02-24 15:18:27.164766 [info] : Client[7] quit!
+2023-02-24 15:18:40.720005 [info] : Client[10] quit!
+2023-02-24 15:18:40.720077 [info] : Client[9] quit!
+2023-02-24 15:18:40.720081 [info] : Client[11] quit!
+2023-02-24 17:21:42.698256 [info] : Client[6](127.0.0.1:16534) in, userCount:1
+2023-02-24 17:21:42.706938 [info] : Client[6] in!
+2023-02-24 17:21:43.024910 [info] : Client[7](127.0.0.1:19094) in, userCount:2
+2023-02-24 17:21:43.024965 [info] : Client[7] in!
+2023-02-24 17:21:43.025305 [info] : Client[8](127.0.0.1:20630) in, userCount:3
+2023-02-24 17:21:43.025366 [info] : Client[8] in!
+2023-02-24 17:21:43.026305 [info] : Client[9](127.0.0.1:23190) in, userCount:4
+2023-02-24 17:21:43.026371 [info] : Client[9] in!
+2023-02-24 17:21:43.028015 [info] : Client[10](127.0.0.1:23702) in, userCount:5
+2023-02-24 17:21:43.028096 [info] : Client[10] in!
+2023-02-24 17:21:43.029969 [info] : Client[11](127.0.0.1:25238) in, userCount:6
+2023-02-24 17:21:43.030025 [info] : Client[11] in!
+2023-02-24 17:21:43.290652 [info] : Client[11] quit!
+2023-02-24 17:21:43.290750 [info] : Client[11](127.0.0.1:25238) quit, UserCount:5
+2023-02-24 17:22:43.103626 [info] : Client[9] quit!
+2023-02-24 17:22:43.104299 [info] : Client[9](127.0.0.1:23190) quit, UserCount:4
+2023-02-24 17:22:43.104348 [info] : Client[6] quit!
+2023-02-24 17:22:43.104373 [info] : Client[6](127.0.0.1:16534) quit, UserCount:3
+2023-02-24 17:22:43.104377 [info] : Client[8] quit!
+2023-02-24 17:22:43.104391 [info] : Client[8](127.0.0.1:20630) quit, UserCount:2
+2023-02-24 17:22:43.104394 [info] : Client[7] quit!
+2023-02-24 17:22:43.104408 [info] : Client[7](127.0.0.1:19094) quit, UserCount:1
+2023-02-24 17:22:43.104412 [info] : Client[10] quit!
+2023-02-24 17:22:43.104425 [info] : Client[10](127.0.0.1:23702) quit, UserCount:0
